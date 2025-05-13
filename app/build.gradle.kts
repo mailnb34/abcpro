@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.mai.xmcproject"
+    namespace = "com.mai.abcpro"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.mai.xmcproject"
+        applicationId = "com.mai.abcpro"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
