@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.quin.xmcproject"
+    namespace = "com.mai.xmcproject"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.quin.xmcproject"
+        applicationId = "com.mai.xmcproject"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
